@@ -1,5 +1,4 @@
 # QuantumComputingFun
-just some physic stuff in java
 
 
 I like to develop quantum physic formula's in java just for the fun of the challenge, i think i cover more stuff i the future. 
